@@ -2,7 +2,7 @@
 
 Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
 
-<img align="right" src="images/mascote-html5.png" width="200">
+<img align="right" src="images/logo.png" width="200">
 
 ## Curso de HTML5 e CSS3
 
