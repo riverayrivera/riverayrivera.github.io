@@ -12,6 +12,3 @@ Durante as **aulas de HTML5 e CSS3**, aprendemos como criar páginas web simples
 * [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
 * [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
 * [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
-
-<img align="right" src="images/mascote-javascript.png" width="200">
-
