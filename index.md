@@ -1,4 +1,4 @@
-# Student Resources: Quantitative Methods
+🇺🇸 # Student Resources: Quantitative Methods
 
 Welcome to the official resource hub for students of **Quantitative Methods**!  
 Here, you'll find materials used in my classes, now organized into a public repository for easy access.
