@@ -2,7 +2,7 @@
 
 Material usado durante as minhas aulas presenciais, mas que estou organizando aqui em um repositório público para o acesso de todos.
 
-<img align="right" src="images/Logo.png" width="200">
+<img align="right" src="images/brain.png" width="200">
 
 ## Curso de HTML5 e CSS3
 
